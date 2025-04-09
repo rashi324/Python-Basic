@@ -1,6 +1,6 @@
 #Sort Descending
 
-#To sort desending, use the keyword argumnets reverse = True:
+#To sort  descending, use the keyword arguments reverse = True:
 
 thislist = ["orange","mango","kiwi","pineapple","banana"]
 thislist.sort(reverse = True)
